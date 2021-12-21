@@ -3,7 +3,7 @@
 
 -  🔭 I’m currently working on **solving coding challenges**
 
--  🌱 I’m currently learning **Data Structures and Algorithms**
+-  🌱 I’m currently learning about **Data Structures and Algorithms**
 
 -  💬 Ask me about **Health and Fitness**
 
