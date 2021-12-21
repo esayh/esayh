@@ -1,5 +1,7 @@
 <div align="center">
-
+  
+<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Hi%2C+I'm+Esay!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <table>
