@@ -25,12 +25,4 @@
 <span>&emsp;</span>
 [![Esay's github stats](https://github-readme-stats.vercel.app/api?username=esayh&hide=stars&show_icons=true&theme=dark)](https://github.com/PompaDonpa/github-readme-stats)
 
-<div align='justify'>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esayh&repo=my-react-calculator&theme=dark)](https://github.com/esayhmy-react-calculator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esayh&repo=soka&theme=dark)](https://github.com/soka)
-
-</div>
-
 </div>
