@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Hi%2C+I'm+Esay!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=600&height=400&lines=Hi%2C+I'm+Esay!)](https://git.io/typing-svg)
 
 </div>
 <table>
