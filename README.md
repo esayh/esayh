@@ -1,9 +1,9 @@
 <div align="center">
-  
-<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
-  
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Hi%2C+I'm+Esay!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+</div>
 <table>
 
 <h2 align="left"><span>&ensp;&ensp;&ensp;&ensp;</span>» About me</h2>
