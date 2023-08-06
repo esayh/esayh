@@ -17,7 +17,7 @@
 <br></br>
 <div align="center">
 
-![Esay Hernandez GitHub stats](https://github-readme-stats.vercel.app/api?username=esayh&theme=dark&show_icons=true)
+![Esay Hernandez GitHub stats](https-github-com-esayh-github-readme-stats.vercel.app/api?username=esayh&theme=dark&show_icons=true)
 
 
 <p align="center">Connect with me:</p>
