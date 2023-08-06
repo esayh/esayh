@@ -68,6 +68,5 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=esayh.visitor-badge&left_color=gray&right_color=blue)
 
 </div>
