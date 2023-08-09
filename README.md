@@ -21,7 +21,7 @@
 
 <p align="center">Connect with me:</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Esay-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esay-hernandez-811899158/)
+[![Linkedin Badge](https://img.shields.io/badge/-Esay-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esay-hernandez/)
 </div>
 
 
